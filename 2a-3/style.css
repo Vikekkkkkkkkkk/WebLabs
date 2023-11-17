@@ -1,0 +1,110 @@
+body{
+    display: flex;
+}
+.img1{
+    background-image: url(pexels-photo-3914752.jpg);
+    position: absolute;
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    filter: brightness(0.75);
+    margin-top: 30px;
+    margin-left: 50%;
+    left: -60px;
+}
+.img2{
+    background-image: url(pexels-mohamed-abdelsadig-3196486.jpg);
+    position: absolute;
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    filter: brightness(0.97);
+    margin-top: 200px;
+    margin-left: 50%;
+    left: -70px;
+}
+.img3{
+    background-image: url(pexels-harry-shum-12694483.jpg);
+    position: absolute;
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    filter: brightness(0.97);
+    margin-top: 400px;
+    margin-left: 50%;
+    left: -65px;
+}
+.table1{
+    position: absolute;
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+    float: right;
+    margin: 10px;
+    padding: 0px;
+    padding-right: 80px;
+    border-radius: 25px;
+    left: 160px;
+    top: -30px;
+    
+}
+.table2{
+    position: absolute;
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin: 10px;
+    padding: 0px;
+    padding-left: 80px;
+    border-radius: 25px;
+    right: 160px;
+    top: -18%;
+}
+.table3{
+    position: absolute;
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+    float: right;
+    margin: 10px;
+    padding:  0px;
+    padding-right: 80px;
+    border-radius: 25px;
+    left: 160px;
+    top: -18%;
+}
+.button{
+    position: relative;
+    top: 50%;
+    background-color: rgb(95, 245, 57);
+    border: none;
+    border-radius: 20px;
+    min-height: 35px;
+    margin: 15px;
+    padding-left: 15px; 
+    padding-right: 15px;
+}
+.button2{
+    position: relative;
+    top: 50%;
+    background-color: rgb(95, 245, 57);
+    border: none;
+    border-radius: 20px;
+    min-height: 35px;  
+    margin: 15px;
+    padding-left: 15px; 
+    padding-right: 15px;
+    margin-left: 174px;
+}
+h4{
+    color: grey;
+    margin-left: 5px;
+}
+.rr33{
+    margin-left: 150px;
+}
+h2{
+    margin-left: 10px;
+}
+
